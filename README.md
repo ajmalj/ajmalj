@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mohammed Ajmal
+<h1>I am Mohammed Ajmal</h1>
 
 **About Me**
 
