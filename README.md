@@ -4,7 +4,7 @@
 
 **About Me**
 
-     6+ years experienced Odoo Techno Functional Consultant.
+     9+ years experienced Odoo Techno Functional Consultant.
      
 **My Experiences**
 
